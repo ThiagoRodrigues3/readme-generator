@@ -21,7 +21,7 @@ Then, complete the question series.
 Check under "written" for your new README.md file output.
 
 ### Demo
-Large file, so reference in the assets file.
+Large file, so reference in the assets file. Also, checkout the OUTPUT folder to see an example of the README after the generator is run!
     
 ### User Story 📖
 
