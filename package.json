@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "name": "readme-generator",
+  "description": "A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoRodrigues3/readme-generator.git"
+  },
+  "author": "Thiago Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoRodrigues3/readme-generator/issues"
+  },
+  "homepage": "https://github.com/ThiagoRodrigues3/readme-generator#readme"
+}
